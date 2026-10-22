@@ -1,0 +1,39 @@
+{
+  "name": "diagramkit",
+  "version": "0.9.0",
+  "description": "An AI diagram builder for people who explain things: docs, DevRel, blogs and social. Describe it in the chat and diagramkit's agent draws a finished, on-brand diagram or animation, ready to publish.",
+  "author": {
+    "name": "diagramkit",
+    "email": "colin@techforproduct.com",
+    "url": "https://diagramkit.ai"
+  },
+  "homepage": "https://diagramkit.ai",
+  "repository": "https://github.com/colinmatthews/diagramkit-plugin",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "diagramkit",
+    "shortDescription": "AI diagrams for docs, DevRel, blogs and social",
+    "longDescription": "Describe what you are explaining, or paste the numbers, and diagramkit's agent draws a finished diagram or chart in your brand: flows, architectures, timelines, charts and comparisons for docs, DevRel, blogs and social posts. Change it by asking, or edit its wording, colours and layout exactly, then download it as PNG, JPG, SVG or PDF, or as MP4 or GIF once animated. Diagrams are private to your account.",
+    "developerName": "diagramkit",
+    "category": "Productivity",
+    "capabilities": [
+      "Draws diagrams of systems, flows and processes for docs and blog posts",
+      "Charts numbers you paste or ask about: funnels, trends, comparisons",
+      "Makes carousels, social images and animated explainers",
+      "Edits wording, colours and layout exactly, without redrawing",
+      "Downloads as PNG, JPG, SVG or PDF, or an animation as MP4 or GIF"
+    ],
+    "defaultPrompt": [
+      "Claude Code says the referral program is done. Walk me through what happens when someone invites a friend.",
+      "What happens to our app if us-east-1 goes down?",
+      "Where do our signups come from, and where do they go?"
+    ],
+    "websiteURL": "https://diagramkit.ai",
+    "privacyPolicyURL": "https://diagramkit.ai/privacy",
+    "termsOfServiceURL": "https://diagramkit.ai/terms",
+    "logo": "./assets/icon-512.png",
+    "composerIcon": "./assets/icon-512.png"
+  },
+  "mcpServers": "./.mcp.json"
+}

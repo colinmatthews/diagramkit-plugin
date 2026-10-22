@@ -1,0 +1,26 @@
+{
+  "name": "diagramkit",
+  "version": "0.7.0",
+  "description": "An AI diagram builder for people who explain things: docs, DevRel, blogs and social. Describe it in the chat and diagramkit's agent draws a finished, on-brand diagram or animation, ready to publish.",
+  "author": {
+    "name": "diagramkit",
+    "email": "colin@techforproduct.com",
+    "url": "https://diagramkit.ai"
+  },
+  "homepage": "https://diagramkit.ai",
+  "repository": "https://github.com/colinmatthews/diagramkit-plugin",
+  "license": "MIT",
+  "keywords": [
+    "diagrams",
+    "documentation",
+    "devrel",
+    "charts",
+    "animation"
+  ],
+  "mcpServers": {
+    "diagramkit": {
+      "type": "http",
+      "url": "https://mcp.diagramkit.ai/mcp"
+    }
+  }
+}

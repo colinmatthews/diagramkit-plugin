@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "caret": {
-      "type": "http",
-      "url": "https://mcp.learnwithcaret.com/mcp"
-    }
-  }
-}

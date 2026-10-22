@@ -1,15 +1,15 @@
 {
-  "name": "caret",
-  "description": "Caret: interactive visuals for Claude and Codex.",
+  "name": "diagramkit",
+  "description": "diagramkit: AI diagrams for docs, DevRel, blogs and social, in Claude and Codex.",
   "owner": {
-    "name": "Caret",
+    "name": "diagramkit",
     "email": "colin@techforproduct.com"
   },
   "plugins": [
     {
-      "name": "caret",
-      "source": "./plugins/caret",
-      "description": "Interactive visuals in Claude: understand what your AI built, how a system works, or what your numbers say."
+      "name": "diagramkit",
+      "source": "./plugins/diagramkit",
+      "description": "Describe it in the chat and diagramkit's agent draws a finished, on-brand diagram or animation, ready to publish."
     }
   ]
 }

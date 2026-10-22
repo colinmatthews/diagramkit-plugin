@@ -1,11 +1,19 @@
 {
-  "name": "caret",
-  "interface": { "displayName": "Caret" },
+  "name": "diagramkit",
+  "interface": {
+    "displayName": "diagramkit"
+  },
   "plugins": [
     {
-      "name": "caret",
-      "source": { "source": "local", "path": "./plugins/caret" },
-      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "name": "diagramkit",
+      "source": {
+        "source": "local",
+        "path": "./plugins/diagramkit"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
       "category": "Productivity"
     }
   ]
