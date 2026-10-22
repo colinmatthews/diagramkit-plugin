@@ -85,10 +85,12 @@ a part needs naming."
 ## Match their own figures
 
 The fields restyle diagramkit's own drawing. To have diagrams match the company's
-own figures part for part (their boxes, groups, lines, arrows and icons), the
-person opens the Brand kit page at app.diagramkit.ai and gives it a few of the
-figures they publish, or their website. diagramkit's brand assistant redraws
-those figures and builds the parts from them. Brands set there keep their parts
+own figures part for part (their boxes, groups, lines, arrows and icons), follow
+the gather-brand skill in their codebase and send what it collects with
+`setup_brand`, or the person opens the Brand kit page at app.diagramkit.ai and
+gives it a few of the figures they publish, or their website. Either way
+diagramkit's brand assistant redraws those figures and builds the parts from
+them. Brands set there keep their parts
 when you change colours or fonts here, and `get_brand` says when a brand has
 its own parts.
 

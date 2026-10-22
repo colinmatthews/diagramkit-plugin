@@ -9,7 +9,10 @@ you can download it as PNG, JPEG, SVG, PDF, MP4 or GIF.
 This plugin connects Claude or Codex to diagramkit's hosted MCP server
 (`https://mcp.diagramkit.ai/mcp`) and adds the `create-visual` skill, which
 tells the assistant when a diagram will help and how to ask diagramkit's agent for
-one, and the `set-brand` skill for Team and Enterprise accounts that bring their own design system.
+one, and for Team and Enterprise accounts the `set-brand` skill, which brings in
+their design system, and the `gather-brand` skill, which collects their tokens,
+components, figures and recurring parts from their codebase so diagramkit's
+diagrams match the figures they already publish.
 
 ## Install
 
