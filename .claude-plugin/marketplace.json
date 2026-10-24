@@ -2,7 +2,7 @@
   "name": "diagramkit",
   "description": "diagramkit: AI diagrams for docs, DevRel, blogs and social, in Claude and Codex.",
   "owner": {
-    "name": "diagramkit",
+    "name": "Tech for Product",
     "email": "colin@techforproduct.com"
   },
   "plugins": [
