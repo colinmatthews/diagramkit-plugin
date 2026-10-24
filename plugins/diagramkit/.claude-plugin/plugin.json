@@ -16,5 +16,9 @@
     "devrel",
     "charts",
     "animation"
-  ]
+  ],
+  "privacyPolicyUrl": "https://diagramkit.ai/privacy",
+  "termsOfServiceUrl": "https://diagramkit.ai/terms",
+  "supportUrl": "https://diagramkit.ai/contact",
+  "documentationUrl": "https://docs.diagramkit.ai/connect"
 }
