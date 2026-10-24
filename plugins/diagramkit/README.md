@@ -29,3 +29,14 @@ start at [diagramkit.ai](https://diagramkit.ai)).
 Diagrams are private to your account. See the
 [privacy policy](https://diagramkit.ai/privacy) and
 [terms](https://diagramkit.ai/terms). Support: colin@techforproduct.com.
+
+## What this plugin sends
+
+The plugin runs nothing on your machine. It connects to diagramkit's MCP server at
+https://mcp.diagramkit.ai/mcp, which you sign in to with your diagramkit account. When you
+ask for a diagram, the assistant sends your request and any images you attach. The
+gather-brand skill, used only when you ask diagramkit to match your brand from a codebase,
+sends design token files, excerpts of the components that draw your figures, the public
+addresses of a few published figures and a short parts list; it never sends secrets or
+environment files. The create-visual skill may save a diagram into your repository by
+downloading it from the time-limited link diagramkit returns (curl).

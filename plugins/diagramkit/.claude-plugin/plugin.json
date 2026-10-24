@@ -1,6 +1,6 @@
 {
   "name": "diagramkit",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "An AI diagram builder for people who explain things: docs, DevRel, blogs and social. Describe it in the chat and diagramkit's agent draws a finished, on-brand diagram or animation, ready to publish.",
   "author": {
     "name": "diagramkit",
@@ -16,11 +16,5 @@
     "devrel",
     "charts",
     "animation"
-  ],
-  "mcpServers": {
-    "diagramkit": {
-      "type": "http",
-      "url": "https://mcp.diagramkit.ai/mcp"
-    }
-  }
+  ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "diagramkit",
+  "displayName": "diagramkit",
+  "version": "0.10.1",
+  "description": "Describe what you are explaining, or paste the numbers, and diagramkit returns a finished diagram or chart you can edit, animate and download as PNG, JPG, SVG, PDF, MP4 or GIF.",
+  "author": {
+    "name": "diagramkit",
+    "email": "colin@techforproduct.com"
+  },
+  "homepage": "https://diagramkit.ai",
+  "repository": "https://github.com/colinmatthews/diagramkit-plugin",
+  "license": "MIT",
+  "keywords": ["diagrams", "charts", "documentation", "architecture", "flowchart", "animation"],
+  "logo": "assets/logo.svg"
+}

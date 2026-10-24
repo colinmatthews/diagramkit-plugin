@@ -1,6 +1,6 @@
 {
   "name": "diagramkit",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "An AI diagram builder for people who explain things: docs, DevRel, blogs and social. Describe it in the chat and diagramkit's agent draws a finished, on-brand diagram or animation, ready to publish.",
   "author": {
     "name": "diagramkit",
@@ -13,7 +13,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "diagramkit",
-    "shortDescription": "AI diagrams for docs, DevRel, blogs and social",
+    "shortDescription": "Finished diagrams from a chat",
     "longDescription": "Describe what you are explaining, or paste the numbers, and diagramkit's agent draws a finished diagram or chart in your brand: flows, architectures, timelines, charts and comparisons for docs, DevRel, blogs and social posts. Change it by asking, or edit its wording, colours and layout exactly, then download it as PNG, JPG, SVG or PDF, or as MP4 or GIF once animated. Diagrams are private to your account.",
     "developerName": "diagramkit",
     "category": "Productivity",
